@@ -7,7 +7,7 @@ This is a simple Next.js project showing how to authenticate using the DummyJSON
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/9ani/dummyJson.git
     cd dummyjson-auth
     ```
 
